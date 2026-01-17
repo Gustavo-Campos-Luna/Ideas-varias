@@ -1,0 +1,12 @@
+# Financial Wallet Dependencies
+pandas>=2.0.0
+matplotlib>=3.7.0
+yfinance>=0.2.0
+
+# Weather Scraper Dependencies
+selenium>=4.0.0
+openpyxl>=3.1.0
+
+# Development Dependencies (optional)
+pylint>=2.17.0
+black>=23.0.0
